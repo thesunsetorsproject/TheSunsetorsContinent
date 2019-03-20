@@ -7,8 +7,10 @@
 对于非创作团队成员，您可以在Github以Issue的方式参与讨论、提供建议。链接：[https://github.com/thesunsetorsproject/TheSunsetorsContinent/issues](https://github.com/thesunsetorsproject/TheSunsetorsContinent/issues "点我")
 
 # 进度
+这里列出创作团队成员当前主要编写的章节。
 
-
-
+* [ ] 第一章 桑斯特洛特帝国
+* [ ] 第二章 主要城邦
+  * [ ] 圣城 — lss233
 
 
